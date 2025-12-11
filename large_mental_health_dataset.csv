@@ -1,0 +1,505 @@
+ID,Text,Label,Severity,Age Group,Gender,Duration (Months/Years),Treatment ,Triggers,Coping Mechanisms
+1,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Teen,Female,More than 3 years,Both Medication and Therapy,Work Pressure,Exercise
+2,I hide my scars because I'm afraid people will judge me.,Self-harm,Mild,Elderly,Male,More than 3 years,No Treatment,Stress,Support Groups
+3,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Elderly,Male,Less than 6 months,Both Medication and Therapy,Social Situations,Medication
+4,I hide my scars because I'm afraid people will judge me.,Self-harm,Moderate,Adult,Male,6-12 months,Therapy,Genetics,Support Groups
+5,I hide my scars because I'm afraid people will judge me.,Self-harm,Severe,Adult,Other,Less than 6 months,Both Medication and Therapy,Stress,Support Groups
+6,Sometimes I cut myself to relieve emotional pain.,Self-harm,Moderate,Elderly,Male,More than 3 years,Therapy,Genetics,Support Groups
+7,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Teen,Other,6-12 months,Medication,Social Situations,Exercise
+8,I hide my scars because I'm afraid people will judge me.,Self-harm,Mild,Teen,Male,Less than 6 months,Both Medication and Therapy,Trauma,Medication
+9,I hide my scars because I'm afraid people will judge me.,Self-harm,Severe,Teen,Other,1-3 years,No Treatment,Genetics,Exercise
+10,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Adult,Female,1-3 years,No Treatment,Genetics,Support Groups
+11,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Adult,Other,1-3 years,No Treatment,Genetics,Therapy
+12,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Mild,Adult,Other,1-3 years,Both Medication and Therapy,Genetics,Therapy
+13,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Adult,Female,6-12 months,No Treatment,Genetics,Support Groups
+14,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Teen,Other,More than 3 years,Therapy,Social Situations,Medication
+15,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Adult,Female,1-3 years,Medication,Unknown,Support Groups
+16,Sometimes I cut myself to relieve emotional pain.,Self-harm,Moderate,Adult,Male,6-12 months,No Treatment,Trauma,Medication
+17,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Teen,Male,6-12 months,Therapy,Unknown,Exercise
+18,Sometimes I cut myself to relieve emotional pain.,Self-harm,Moderate,Teen,Female,Less than 6 months,No Treatment,Social Situations,None
+19,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Elderly,Other,1-3 years,Therapy,Work Pressure,Support Groups
+20,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Elderly,Male,1-3 years,Medication,Trauma,Medication
+21,I hide my scars because I'm afraid people will judge me.,Self-harm,Mild,Elderly,Other,More than 3 years,Therapy,Unknown,Exercise
+22,Sometimes I cut myself to relieve emotional pain.,Self-harm,Moderate,Teen,Other,Less than 6 months,No Treatment,Work Pressure,Support Groups
+23,I hide my scars because I'm afraid people will judge me.,Self-harm,Mild,Teen,Other,1-3 years,Therapy,Work Pressure,Exercise
+24,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Mild,Elderly,Female,Less than 6 months,Therapy,Genetics,Meditation
+25,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Elderly,Male,More than 3 years,Medication,Work Pressure,Exercise
+26,I hide my scars because I'm afraid people will judge me.,Self-harm,Severe,Teen,Other,6-12 months,Therapy,Social Situations,Medication
+27,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Elderly,Female,6-12 months,No Treatment,Unknown,Therapy
+28,I hide my scars because I'm afraid people will judge me.,Self-harm,Moderate,Adult,Male,More than 3 years,No Treatment,Work Pressure,Meditation
+29,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Teen,Other,6-12 months,No Treatment,Stress,Medication
+30,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Adult,Female,1-3 years,Medication,Stress,Support Groups
+31,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Severe,Elderly,Other,More than 3 years,Both Medication and Therapy,Work Pressure,Support Groups
+32,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Mild,Elderly,Male,More than 3 years,Both Medication and Therapy,Genetics,Meditation
+33,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Adult,Other,Less than 6 months,No Treatment,Social Situations,Therapy
+34,Sometimes I cut myself to relieve emotional pain.,Self-harm,Mild,Teen,Other,1-3 years,No Treatment,Social Situations,Exercise
+35,I hide my scars because I'm afraid people will judge me.,Self-harm,Severe,Elderly,Female,More than 3 years,Medication,Work Pressure,Exercise
+36,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Mild,Elderly,Male,Less than 6 months,Medication,Unknown,Support Groups
+37,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Mild,Elderly,Male,6-12 months,Medication,Stress,Medication
+38,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Adult,Male,More than 3 years,Medication,Social Situations,None
+39,Sometimes I cut myself to relieve emotional pain.,Self-harm,Severe,Elderly,Male,More than 3 years,Both Medication and Therapy,Work Pressure,Medication
+40,"I feel numb inside, and hurting myself is the only way to feel something.",Self-harm,Moderate,Elderly,Male,6-12 months,No Treatment,Social Situations,Exercise
+41,Sometimes I cut myself to relieve emotional pain.,Self-harm,Moderate,Teen,Other,6-12 months,Therapy,Genetics,Exercise
+42,I hide my scars because I'm afraid people will judge me.,Self-harm,Severe,Elderly,Female,6-12 months,Medication,Social Situations,Support Groups
+43,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Mild,Teen,Female,6-12 months,Therapy,Work Pressure,Meditation
+44,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Severe,Teen,Male,Less than 6 months,Medication,Trauma,Support Groups
+45,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Moderate,Adult,Female,6-12 months,No Treatment,Trauma,Meditation
+46,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Elderly,Female,1-3 years,No Treatment,Social Situations,Therapy
+47,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Moderate,Elderly,Female,More than 3 years,Therapy,Unknown,Meditation
+48,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Moderate,Elderly,Female,1-3 years,Both Medication and Therapy,Genetics,Support Groups
+49,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Severe,Elderly,Male,1-3 years,Therapy,Stress,Meditation
+50,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Mild,Elderly,Male,1-3 years,Medication,Trauma,Exercise
+51,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Teen,Other,6-12 months,Medication,Social Situations,None
+52,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Mild,Elderly,Female,More than 3 years,Therapy,Social Situations,Support Groups
+53,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Teen,Other,6-12 months,No Treatment,Social Situations,Exercise
+54,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Moderate,Teen,Male,Less than 6 months,No Treatment,Stress,Medication
+55,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Teen,Male,Less than 6 months,Both Medication and Therapy,Trauma,Support Groups
+56,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Mild,Adult,Male,Less than 6 months,Therapy,Work Pressure,Meditation
+57,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Adult,Male,1-3 years,No Treatment,Work Pressure,Medication
+58,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Teen,Female,More than 3 years,No Treatment,Social Situations,Exercise
+59,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Adult,Other,More than 3 years,Therapy,Work Pressure,Therapy
+60,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Moderate,Adult,Female,Less than 6 months,Therapy,Work Pressure,None
+61,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Adult,Female,Less than 6 months,Medication,Trauma,Therapy
+62,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Teen,Female,6-12 months,Both Medication and Therapy,Work Pressure,Support Groups
+63,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Moderate,Teen,Other,Less than 6 months,Therapy,Trauma,Medication
+64,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Moderate,Elderly,Other,6-12 months,Medication,Stress,Therapy
+65,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Elderly,Female,More than 3 years,Therapy,Trauma,Medication
+66,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Elderly,Male,6-12 months,Both Medication and Therapy,Genetics,Meditation
+67,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Elderly,Male,6-12 months,Both Medication and Therapy,Work Pressure,Support Groups
+68,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Teen,Male,1-3 years,Medication,Social Situations,Therapy
+69,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Severe,Adult,Male,Less than 6 months,Medication,Unknown,None
+70,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Moderate,Elderly,Male,1-3 years,Both Medication and Therapy,Genetics,Exercise
+71,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Elderly,Female,More than 3 years,No Treatment,Work Pressure,Medication
+72,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Mild,Adult,Other,More than 3 years,Therapy,Genetics,Meditation
+73,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Mild,Adult,Female,Less than 6 months,Medication,Stress,Support Groups
+74,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Severe,Adult,Other,More than 3 years,Both Medication and Therapy,Trauma,Exercise
+75,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Elderly,Female,6-12 months,Medication,Genetics,Support Groups
+76,I check the door multiple times before leaving to make sure it's locked.,Obsessive-Compulsive Disorder,Severe,Elderly,Other,1-3 years,Both Medication and Therapy,Stress,Medication
+77,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Severe,Adult,Other,More than 3 years,Medication,Unknown,Therapy
+78,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Mild,Elderly,Male,More than 3 years,No Treatment,Unknown,Support Groups
+79,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Moderate,Adult,Female,6-12 months,No Treatment,Genetics,Medication
+80,I get anxious if objects are not perfectly aligned.,Obsessive-Compulsive Disorder,Severe,Teen,Female,More than 3 years,Medication,Work Pressure,None
+81,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Moderate,Teen,Female,6-12 months,No Treatment,Genetics,Exercise
+82,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Mild,Adult,Female,Less than 6 months,Therapy,Social Situations,Medication
+83,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Moderate,Teen,Other,1-3 years,Therapy,Social Situations,Support Groups
+84,I keep washing my hands for hours every day because I fear germs.,Obsessive-Compulsive Disorder,Severe,Adult,Male,Less than 6 months,Therapy,Stress,Meditation
+85,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Severe,Adult,Female,1-3 years,Therapy,Unknown,Therapy
+86,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Severe,Adult,Other,1-3 years,Medication,Work Pressure,Medication
+87,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Male,Less than 6 months,Both Medication and Therapy,Stress,Therapy
+88,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Adult,Other,1-3 years,Medication,Work Pressure,Medication
+89,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Female,6-12 months,No Treatment,Unknown,None
+90,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Male,6-12 months,Both Medication and Therapy,Trauma,Support Groups
+91,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Male,More than 3 years,Both Medication and Therapy,Genetics,Exercise
+92,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Severe,Teen,Female,6-12 months,Medication,Genetics,Therapy
+93,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Severe,Adult,Other,Less than 6 months,Both Medication and Therapy,Social Situations,Support Groups
+94,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Other,6-12 months,Medication,Genetics,Medication
+95,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Severe,Teen,Female,More than 3 years,Both Medication and Therapy,Stress,Meditation
+96,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Moderate,Adult,Female,6-12 months,No Treatment,Work Pressure,Meditation
+97,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Female,6-12 months,Medication,Work Pressure,Exercise
+98,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Female,More than 3 years,Both Medication and Therapy,Trauma,Exercise
+99,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Moderate,Adult,Female,6-12 months,Both Medication and Therapy,Stress,None
+100,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Severe,Adult,Female,Less than 6 months,Therapy,Work Pressure,Support Groups
+101,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Other,1-3 years,Both Medication and Therapy,Genetics,Meditation
+102,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Severe,Elderly,Other,More than 3 years,Both Medication and Therapy,Stress,Medication
+103,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Male,1-3 years,Medication,Social Situations,Support Groups
+104,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Severe,Adult,Male,6-12 months,Therapy,Unknown,Meditation
+105,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Other,More than 3 years,Both Medication and Therapy,Work Pressure,Therapy
+106,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Female,More than 3 years,Therapy,Genetics,Therapy
+107,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Moderate,Adult,Female,1-3 years,Medication,Unknown,Meditation
+108,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Severe,Teen,Other,1-3 years,No Treatment,Stress,Support Groups
+109,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Female,More than 3 years,Therapy,Work Pressure,Therapy
+110,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Other,More than 3 years,Both Medication and Therapy,Unknown,Therapy
+111,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Severe,Teen,Female,More than 3 years,Both Medication and Therapy,Social Situations,Support Groups
+112,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Other,Less than 6 months,Both Medication and Therapy,Social Situations,Medication
+113,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Severe,Elderly,Male,Less than 6 months,Therapy,Genetics,Therapy
+114,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Moderate,Adult,Other,Less than 6 months,Therapy,Unknown,Support Groups
+115,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Moderate,Teen,Female,Less than 6 months,No Treatment,Stress,Meditation
+116,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Moderate,Adult,Female,6-12 months,Medication,Social Situations,Therapy
+117,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Male,1-3 years,Medication,Genetics,None
+118,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Severe,Teen,Other,Less than 6 months,Therapy,Work Pressure,Therapy
+119,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Female,More than 3 years,Both Medication and Therapy,Stress,None
+120,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Other,1-3 years,Therapy,Work Pressure,Medication
+121,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Moderate,Elderly,Female,1-3 years,Both Medication and Therapy,Genetics,Exercise
+122,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Male,6-12 months,Both Medication and Therapy,Work Pressure,Exercise
+123,I avoid places that remind me of my past traumatic experience.,Post-Traumatic Stress Disorder (PTSD),Mild,Elderly,Other,Less than 6 months,Medication,Trauma,Therapy
+124,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Mild,Teen,Male,1-3 years,Both Medication and Therapy,Work Pressure,Therapy
+125,Loud noises make me panic because they remind me of past trauma.,Post-Traumatic Stress Disorder (PTSD),Severe,Elderly,Female,More than 3 years,Therapy,Trauma,Support Groups
+126,"After the accident, I keep having nightmares and flashbacks.",Post-Traumatic Stress Disorder (PTSD),Moderate,Teen,Other,1-3 years,No Treatment,Trauma,Exercise
+127,I find it difficult to get out of bed most days.,Depression,Moderate,Teen,Female,1-3 years,Therapy,Unknown,Therapy
+128,I find it difficult to get out of bed most days.,Depression,Moderate,Elderly,Other,Less than 6 months,Both Medication and Therapy,Social Situations,Meditation
+129,I find it difficult to get out of bed most days.,Depression,Moderate,Adult,Male,1-3 years,No Treatment,Work Pressure,Support Groups
+130,I find it difficult to get out of bed most days.,Depression,Moderate,Teen,Other,6-12 months,Both Medication and Therapy,Social Situations,Medication
+131,I feel extremely sad all the time and have no motivation to do anything.,Depression,Severe,Adult,Other,6-12 months,Both Medication and Therapy,Stress,Medication
+132,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Adult,Other,Less than 6 months,Both Medication and Therapy,Unknown,None
+133,I have lost interest in everything I used to enjoy.,Depression,Mild,Teen,Other,More than 3 years,Both Medication and Therapy,Unknown,Exercise
+134,I have lost interest in everything I used to enjoy.,Depression,Moderate,Elderly,Other,Less than 6 months,Medication,Work Pressure,Meditation
+135,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Adult,Male,Less than 6 months,Therapy,Trauma,Support Groups
+136,I have lost interest in everything I used to enjoy.,Depression,Severe,Teen,Female,6-12 months,Therapy,Work Pressure,Medication
+137,I feel extremely sad all the time and have no motivation to do anything.,Depression,Severe,Teen,Female,More than 3 years,No Treatment,Work Pressure,Meditation
+138,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Elderly,Female,More than 3 years,Both Medication and Therapy,Unknown,Meditation
+139,I feel extremely sad all the time and have no motivation to do anything.,Depression,Severe,Teen,Other,1-3 years,Both Medication and Therapy,Unknown,Therapy
+140,I find it difficult to get out of bed most days.,Depression,Mild,Adult,Other,1-3 years,Therapy,Social Situations,Meditation
+141,I have lost interest in everything I used to enjoy.,Depression,Moderate,Elderly,Other,1-3 years,Both Medication and Therapy,Work Pressure,None
+142,I have lost interest in everything I used to enjoy.,Depression,Mild,Teen,Other,More than 3 years,Medication,Work Pressure,Medication
+143,I find it difficult to get out of bed most days.,Depression,Mild,Adult,Male,Less than 6 months,Both Medication and Therapy,Stress,Meditation
+144,I find it difficult to get out of bed most days.,Depression,Mild,Teen,Other,6-12 months,Therapy,Unknown,None
+145,I find it difficult to get out of bed most days.,Depression,Mild,Elderly,Other,More than 3 years,Medication,Trauma,Therapy
+146,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Teen,Male,Less than 6 months,No Treatment,Social Situations,Therapy
+147,I have lost interest in everything I used to enjoy.,Depression,Severe,Adult,Male,Less than 6 months,Both Medication and Therapy,Genetics,Exercise
+148,I feel extremely sad all the time and have no motivation to do anything.,Depression,Severe,Teen,Male,6-12 months,Both Medication and Therapy,Social Situations,Medication
+149,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Elderly,Male,More than 3 years,No Treatment,Stress,None
+150,I find it difficult to get out of bed most days.,Depression,Severe,Teen,Female,Less than 6 months,Medication,Unknown,Medication
+151,I have lost interest in everything I used to enjoy.,Depression,Severe,Elderly,Male,1-3 years,Medication,Genetics,None
+152,I have lost interest in everything I used to enjoy.,Depression,Moderate,Adult,Female,More than 3 years,Medication,Trauma,Medication
+153,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Adult,Female,More than 3 years,Medication,Unknown,None
+154,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Elderly,Other,1-3 years,No Treatment,Trauma,Medication
+155,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Teen,Female,More than 3 years,No Treatment,Social Situations,Support Groups
+156,I have lost interest in everything I used to enjoy.,Depression,Mild,Teen,Female,6-12 months,Medication,Genetics,None
+157,I have lost interest in everything I used to enjoy.,Depression,Moderate,Teen,Other,1-3 years,Medication,Unknown,Support Groups
+158,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Elderly,Female,Less than 6 months,No Treatment,Work Pressure,Exercise
+159,I feel extremely sad all the time and have no motivation to do anything.,Depression,Severe,Teen,Female,6-12 months,Both Medication and Therapy,Stress,Therapy
+160,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Adult,Female,6-12 months,No Treatment,Trauma,None
+161,I have lost interest in everything I used to enjoy.,Depression,Severe,Adult,Male,More than 3 years,Medication,Genetics,Medication
+162,I find it difficult to get out of bed most days.,Depression,Mild,Teen,Female,1-3 years,Therapy,Genetics,Therapy
+163,I find it difficult to get out of bed most days.,Depression,Mild,Adult,Female,6-12 months,Both Medication and Therapy,Work Pressure,None
+164,I find it difficult to get out of bed most days.,Depression,Severe,Adult,Other,1-3 years,Medication,Social Situations,Medication
+165,I have lost interest in everything I used to enjoy.,Depression,Severe,Elderly,Female,Less than 6 months,Both Medication and Therapy,Unknown,None
+166,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Elderly,Male,More than 3 years,No Treatment,Trauma,Support Groups
+167,I feel extremely sad all the time and have no motivation to do anything.,Depression,Mild,Elderly,Female,More than 3 years,No Treatment,Genetics,Medication
+168,I feel extremely sad all the time and have no motivation to do anything.,Depression,Moderate,Teen,Male,1-3 years,Both Medication and Therapy,Trauma,Therapy
+169,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Elderly,Male,1-3 years,Both Medication and Therapy,Stress,Therapy
+170,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Moderate,Adult,Female,1-3 years,Both Medication and Therapy,Unknown,Medication
+171,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Elderly,Female,More than 3 years,Both Medication and Therapy,Stress,Medication
+172,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Elderly,Other,6-12 months,Therapy,Work Pressure,Therapy
+173,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Mild,Elderly,Female,Less than 6 months,Medication,Unknown,Exercise
+174,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Severe,Elderly,Female,6-12 months,No Treatment,Stress,None
+175,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Teen,Female,Less than 6 months,Therapy,Trauma,Support Groups
+176,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Severe,Adult,Other,6-12 months,Medication,Stress,None
+177,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Elderly,Female,6-12 months,Both Medication and Therapy,Work Pressure,Meditation
+178,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Severe,Teen,Other,6-12 months,Therapy,Trauma,Exercise
+179,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Teen,Female,More than 3 years,Medication,Stress,Support Groups
+180,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Elderly,Other,6-12 months,Therapy,Trauma,Medication
+181,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Moderate,Adult,Female,More than 3 years,No Treatment,Trauma,Therapy
+182,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Teen,Male,6-12 months,Both Medication and Therapy,Social Situations,Therapy
+183,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Teen,Other,6-12 months,Medication,Trauma,Support Groups
+184,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Adult,Male,Less than 6 months,Medication,Genetics,Support Groups
+185,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Elderly,Other,More than 3 years,Medication,Work Pressure,Therapy
+186,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Mild,Teen,Female,Less than 6 months,Both Medication and Therapy,Social Situations,None
+187,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Elderly,Male,1-3 years,Therapy,Trauma,Meditation
+188,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Moderate,Teen,Female,1-3 years,Medication,Stress,Therapy
+189,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Mild,Teen,Other,More than 3 years,No Treatment,Stress,Medication
+190,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Moderate,Teen,Male,6-12 months,Both Medication and Therapy,Work Pressure,None
+191,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Moderate,Adult,Female,1-3 years,Both Medication and Therapy,Work Pressure,None
+192,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Teen,Other,Less than 6 months,Both Medication and Therapy,Work Pressure,Support Groups
+193,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Teen,Other,1-3 years,Both Medication and Therapy,Social Situations,Medication
+194,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Severe,Elderly,Female,6-12 months,Medication,Social Situations,Medication
+195,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Mild,Teen,Male,1-3 years,No Treatment,Trauma,Meditation
+196,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Mild,Elderly,Female,More than 3 years,Both Medication and Therapy,Genetics,Exercise
+197,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Moderate,Elderly,Male,6-12 months,Medication,Work Pressure,Medication
+198,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Severe,Teen,Other,Less than 6 months,Medication,Trauma,Medication
+199,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Moderate,Elderly,Male,More than 3 years,Therapy,Unknown,Therapy
+200,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Moderate,Adult,Male,6-12 months,Medication,Work Pressure,Support Groups
+201,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Teen,Female,6-12 months,No Treatment,Unknown,Support Groups
+202,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Teen,Female,1-3 years,Medication,Stress,None
+203,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Moderate,Elderly,Other,More than 3 years,No Treatment,Genetics,None
+204,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Moderate,Elderly,Female,More than 3 years,Medication,Genetics,None
+205,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Severe,Elderly,Other,More than 3 years,Both Medication and Therapy,Social Situations,Support Groups
+206,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Moderate,Adult,Other,1-3 years,Both Medication and Therapy,Social Situations,Meditation
+207,I feel guilty for not feeling happy about my pregnancy.,Antenatal and Postnatal Mental Health,Mild,Elderly,Other,6-12 months,Both Medication and Therapy,Stress,Medication
+208,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Teen,Male,1-3 years,No Treatment,Trauma,Medication
+209,"Since giving birth, I have been feeling disconnected from my baby.",Antenatal and Postnatal Mental Health,Mild,Elderly,Female,1-3 years,Therapy,Unknown,Medication
+210,Pregnancy has made me extremely anxious and unable to sleep.,Antenatal and Postnatal Mental Health,Mild,Adult,Female,6-12 months,Therapy,Social Situations,Support Groups
+211,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Mild,Elderly,Female,Less than 6 months,No Treatment,Genetics,Exercise
+212,I avoid social situations because I fear being judged.,Anxiety Disorders,Moderate,Adult,Other,6-12 months,Medication,Work Pressure,Support Groups
+213,I avoid social situations because I fear being judged.,Anxiety Disorders,Severe,Elderly,Female,More than 3 years,Both Medication and Therapy,Unknown,Meditation
+214,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Teen,Male,More than 3 years,Therapy,Trauma,None
+215,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Mild,Elderly,Other,Less than 6 months,Both Medication and Therapy,Stress,Meditation
+216,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Female,6-12 months,Therapy,Unknown,Meditation
+217,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Mild,Elderly,Female,Less than 6 months,Medication,Work Pressure,Exercise
+218,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Teen,Female,Less than 6 months,Medication,Unknown,Therapy
+219,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Adult,Female,1-3 years,Both Medication and Therapy,Stress,Therapy
+220,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Severe,Elderly,Female,More than 3 years,No Treatment,Trauma,Medication
+221,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Adult,Female,1-3 years,Therapy,Stress,Support Groups
+222,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Adult,Female,Less than 6 months,No Treatment,Trauma,None
+223,I avoid social situations because I fear being judged.,Anxiety Disorders,Severe,Elderly,Other,1-3 years,Both Medication and Therapy,Unknown,Medication
+224,I avoid social situations because I fear being judged.,Anxiety Disorders,Mild,Elderly,Female,More than 3 years,No Treatment,Trauma,None
+225,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Mild,Elderly,Female,Less than 6 months,Medication,Social Situations,Therapy
+226,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Male,1-3 years,Therapy,Work Pressure,Support Groups
+227,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Male,1-3 years,Both Medication and Therapy,Stress,None
+228,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Elderly,Female,Less than 6 months,Therapy,Trauma,None
+229,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Mild,Adult,Male,More than 3 years,Therapy,Social Situations,Medication
+230,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Adult,Other,Less than 6 months,Therapy,Genetics,None
+231,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Male,Less than 6 months,Therapy,Social Situations,Exercise
+232,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Elderly,Male,6-12 months,Therapy,Work Pressure,Exercise
+233,I avoid social situations because I fear being judged.,Anxiety Disorders,Severe,Teen,Female,More than 3 years,Medication,Social Situations,Medication
+234,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Mild,Teen,Female,More than 3 years,Both Medication and Therapy,Social Situations,None
+235,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Elderly,Male,More than 3 years,Medication,Unknown,Therapy
+236,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Adult,Female,Less than 6 months,Therapy,Trauma,None
+237,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Elderly,Female,Less than 6 months,Both Medication and Therapy,Genetics,Meditation
+238,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Severe,Teen,Male,6-12 months,Therapy,Genetics,Support Groups
+239,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Severe,Elderly,Other,1-3 years,Medication,Genetics,Support Groups
+240,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Mild,Elderly,Female,More than 3 years,Both Medication and Therapy,Trauma,None
+241,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Other,Less than 6 months,No Treatment,Genetics,Exercise
+242,I avoid social situations because I fear being judged.,Anxiety Disorders,Severe,Adult,Male,Less than 6 months,Therapy,Unknown,Therapy
+243,I avoid social situations because I fear being judged.,Anxiety Disorders,Severe,Adult,Other,Less than 6 months,Therapy,Stress,None
+244,I avoid social situations because I fear being judged.,Anxiety Disorders,Moderate,Teen,Female,6-12 months,Therapy,Trauma,Support Groups
+245,I avoid social situations because I fear being judged.,Anxiety Disorders,Moderate,Adult,Other,6-12 months,Therapy,Genetics,Support Groups
+246,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Teen,Male,More than 3 years,Both Medication and Therapy,Trauma,Medication
+247,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Mild,Elderly,Other,Less than 6 months,Both Medication and Therapy,Unknown,None
+248,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Severe,Teen,Male,More than 3 years,Medication,Social Situations,Medication
+249,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Moderate,Teen,Other,6-12 months,Medication,Work Pressure,Meditation
+250,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Moderate,Elderly,Male,Less than 6 months,Medication,Trauma,Medication
+251,My heart races and I start sweating even in normal situations.,Anxiety Disorders,Mild,Adult,Female,Less than 6 months,No Treatment,Genetics,Support Groups
+252,"Sometimes, I feel like I'm going to faint from fear.",Anxiety Disorders,Severe,Adult,Other,1-3 years,Both Medication and Therapy,Unknown,Meditation
+253,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Moderate,Adult,Female,6-12 months,Therapy,Social Situations,None
+254,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Severe,Adult,Female,1-3 years,No Treatment,Social Situations,Support Groups
+255,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Mild,Elderly,Male,More than 3 years,Medication,Stress,Support Groups
+256,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Teen,Male,Less than 6 months,Medication,Work Pressure,Support Groups
+257,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Teen,Male,Less than 6 months,No Treatment,Unknown,None
+258,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Mild,Elderly,Other,6-12 months,No Treatment,Genetics,Medication
+259,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Moderate,Adult,Male,More than 3 years,Therapy,Work Pressure,Support Groups
+260,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Mild,Adult,Other,Less than 6 months,Both Medication and Therapy,Social Situations,Meditation
+261,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Severe,Teen,Male,6-12 months,Therapy,Unknown,None
+262,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Mild,Elderly,Male,Less than 6 months,Both Medication and Therapy,Social Situations,Meditation
+263,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Mild,Adult,Female,Less than 6 months,Therapy,Unknown,Support Groups
+264,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Moderate,Elderly,Other,6-12 months,No Treatment,Work Pressure,Therapy
+265,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Adult,Other,Less than 6 months,Therapy,Genetics,Therapy
+266,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Moderate,Adult,Male,Less than 6 months,Medication,Stress,Exercise
+267,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Moderate,Teen,Male,Less than 6 months,Both Medication and Therapy,Social Situations,Support Groups
+268,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Moderate,Teen,Female,Less than 6 months,Medication,Social Situations,Support Groups
+269,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Mild,Teen,Female,More than 3 years,Medication,Unknown,Support Groups
+270,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Moderate,Elderly,Female,More than 3 years,Therapy,Social Situations,Support Groups
+271,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Elderly,Other,1-3 years,Medication,Trauma,Medication
+272,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Teen,Other,More than 3 years,No Treatment,Unknown,Support Groups
+273,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Elderly,Female,Less than 6 months,Therapy,Trauma,Medication
+274,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Moderate,Adult,Other,6-12 months,Medication,Social Situations,Therapy
+275,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Mild,Teen,Female,1-3 years,No Treatment,Genetics,Meditation
+276,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Severe,Elderly,Female,Less than 6 months,No Treatment,Stress,None
+277,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Mild,Adult,Other,6-12 months,Both Medication and Therapy,Trauma,Medication
+278,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Adult,Other,1-3 years,Medication,Genetics,Exercise
+279,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Moderate,Teen,Other,1-3 years,Both Medication and Therapy,Unknown,None
+280,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Mild,Teen,Female,1-3 years,Both Medication and Therapy,Genetics,None
+281,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Moderate,Teen,Female,More than 3 years,Therapy,Work Pressure,Support Groups
+282,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Mild,Teen,Other,Less than 6 months,Both Medication and Therapy,Unknown,Medication
+283,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Severe,Adult,Male,More than 3 years,Both Medication and Therapy,Work Pressure,Therapy
+284,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Mild,Teen,Female,Less than 6 months,No Treatment,Trauma,Support Groups
+285,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Moderate,Adult,Female,6-12 months,No Treatment,Work Pressure,Exercise
+286,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Severe,Adult,Male,1-3 years,Therapy,Work Pressure,Medication
+287,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Severe,Elderly,Female,Less than 6 months,Medication,Unknown,Therapy
+288,I often wake up in places without remembering how I got there.,Dissociative Identity Disorder,Severe,Adult,Other,1-3 years,Therapy,Stress,Medication
+289,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Severe,Teen,Female,Less than 6 months,Both Medication and Therapy,Genetics,Meditation
+290,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Moderate,Adult,Other,1-3 years,No Treatment,Genetics,None
+291,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Severe,Teen,Female,1-3 years,Both Medication and Therapy,Unknown,Exercise
+292,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Moderate,Teen,Female,More than 3 years,Medication,Stress,Exercise
+293,"Sometimes, I feel like I am not in control of my actions.",Dissociative Identity Disorder,Mild,Elderly,Female,6-12 months,No Treatment,Work Pressure,Therapy
+294,I hear voices in my head that seem like different personalities.,Dissociative Identity Disorder,Mild,Teen,Other,6-12 months,Both Medication and Therapy,Trauma,Exercise
+295,I switch between different identities without realizing it.,Split Personality Disorder,Mild,Adult,Male,More than 3 years,Medication,Social Situations,Support Groups
+296,I switch between different identities without realizing it.,Split Personality Disorder,Mild,Elderly,Other,More than 3 years,Therapy,Genetics,Support Groups
+297,I have different personalities that take over at different times.,Split Personality Disorder,Severe,Adult,Male,Less than 6 months,No Treatment,Trauma,Support Groups
+298,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Adult,Other,6-12 months,No Treatment,Social Situations,Therapy
+299,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Mild,Teen,Other,Less than 6 months,No Treatment,Genetics,Exercise
+300,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Teen,Male,1-3 years,Both Medication and Therapy,Trauma,None
+301,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Teen,Other,6-12 months,Medication,Unknown,None
+302,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Elderly,Female,Less than 6 months,Medication,Social Situations,Medication
+303,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Teen,Other,Less than 6 months,Both Medication and Therapy,Stress,None
+304,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Moderate,Elderly,Female,More than 3 years,No Treatment,Stress,Medication
+305,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Mild,Teen,Other,1-3 years,Therapy,Work Pressure,Meditation
+306,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Elderly,Other,1-3 years,No Treatment,Stress,Support Groups
+307,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Adult,Male,1-3 years,No Treatment,Trauma,None
+308,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Moderate,Adult,Female,Less than 6 months,No Treatment,Work Pressure,Therapy
+309,I switch between different identities without realizing it.,Split Personality Disorder,Moderate,Adult,Female,6-12 months,Both Medication and Therapy,Unknown,Therapy
+310,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Adult,Female,1-3 years,No Treatment,Work Pressure,None
+311,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Moderate,Adult,Female,1-3 years,Therapy,Trauma,Medication
+312,I have different personalities that take over at different times.,Split Personality Disorder,Moderate,Adult,Other,6-12 months,Both Medication and Therapy,Trauma,Exercise
+313,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Teen,Other,6-12 months,Therapy,Social Situations,None
+314,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Elderly,Female,More than 3 years,No Treatment,Genetics,Exercise
+315,I switch between different identities without realizing it.,Split Personality Disorder,Mild,Teen,Female,1-3 years,Therapy,Trauma,Meditation
+316,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Moderate,Adult,Female,More than 3 years,Therapy,Trauma,Support Groups
+317,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Adult,Other,6-12 months,Therapy,Genetics,Therapy
+318,I switch between different identities without realizing it.,Split Personality Disorder,Severe,Teen,Female,6-12 months,Therapy,Genetics,Support Groups
+319,I switch between different identities without realizing it.,Split Personality Disorder,Moderate,Elderly,Female,6-12 months,No Treatment,Genetics,Therapy
+320,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Moderate,Adult,Other,Less than 6 months,Both Medication and Therapy,Unknown,None
+321,I switch between different identities without realizing it.,Split Personality Disorder,Moderate,Elderly,Male,6-12 months,Medication,Trauma,None
+322,I have different personalities that take over at different times.,Split Personality Disorder,Moderate,Adult,Female,Less than 6 months,No Treatment,Social Situations,Medication
+323,I switch between different identities without realizing it.,Split Personality Disorder,Severe,Teen,Other,More than 3 years,Therapy,Social Situations,Support Groups
+324,I switch between different identities without realizing it.,Split Personality Disorder,Moderate,Teen,Female,1-3 years,Both Medication and Therapy,Social Situations,Therapy
+325,I have different personalities that take over at different times.,Split Personality Disorder,Severe,Adult,Female,Less than 6 months,Both Medication and Therapy,Work Pressure,Medication
+326,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Teen,Male,1-3 years,Therapy,Trauma,Meditation
+327,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Teen,Other,Less than 6 months,Both Medication and Therapy,Stress,Support Groups
+328,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Mild,Teen,Other,Less than 6 months,Medication,Work Pressure,Medication
+329,I have different personalities that take over at different times.,Split Personality Disorder,Severe,Adult,Female,Less than 6 months,Medication,Genetics,Meditation
+330,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Elderly,Other,6-12 months,Medication,Genetics,Support Groups
+331,I switch between different identities without realizing it.,Split Personality Disorder,Severe,Adult,Female,6-12 months,Both Medication and Therapy,Work Pressure,Support Groups
+332,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Mild,Teen,Male,1-3 years,Both Medication and Therapy,Trauma,Therapy
+333,I have different personalities that take over at different times.,Split Personality Disorder,Moderate,Adult,Female,Less than 6 months,Medication,Stress,Exercise
+334,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Mild,Adult,Male,1-3 years,Both Medication and Therapy,Work Pressure,Medication
+335,I have different personalities that take over at different times.,Split Personality Disorder,Mild,Elderly,Male,1-3 years,No Treatment,Unknown,Exercise
+336,"Sometimes, I don't recognize myself in the mirror.",Split Personality Disorder,Severe,Adult,Male,Less than 6 months,Medication,Trauma,Exercise
+337,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Moderate,Teen,Male,More than 3 years,Both Medication and Therapy,Trauma,Therapy
+338,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Moderate,Teen,Male,Less than 6 months,Medication,Unknown,Exercise
+339,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Moderate,Elderly,Other,More than 3 years,No Treatment,Trauma,Therapy
+340,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Adult,Other,6-12 months,No Treatment,Trauma,Support Groups
+341,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Teen,Female,6-12 months,Medication,Stress,Therapy
+342,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Elderly,Other,1-3 years,No Treatment,Genetics,Therapy
+343,I get lost even in familiar places.,Alzheimer's Disease,Moderate,Teen,Other,Less than 6 months,Medication,Unknown,None
+344,I get lost even in familiar places.,Alzheimer's Disease,Moderate,Adult,Other,1-3 years,Both Medication and Therapy,Unknown,Medication
+345,I get lost even in familiar places.,Alzheimer's Disease,Moderate,Teen,Female,More than 3 years,Medication,Social Situations,None
+346,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Moderate,Elderly,Male,More than 3 years,Therapy,Trauma,Therapy
+347,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Teen,Male,6-12 months,Both Medication and Therapy,Unknown,Meditation
+348,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Mild,Adult,Female,6-12 months,No Treatment,Stress,Medication
+349,I get lost even in familiar places.,Alzheimer's Disease,Mild,Adult,Other,Less than 6 months,No Treatment,Genetics,Medication
+350,I get lost even in familiar places.,Alzheimer's Disease,Severe,Teen,Male,More than 3 years,Therapy,Work Pressure,Therapy
+351,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Moderate,Teen,Female,Less than 6 months,No Treatment,Unknown,Exercise
+352,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Severe,Elderly,Other,Less than 6 months,Therapy,Stress,None
+353,I get lost even in familiar places.,Alzheimer's Disease,Severe,Elderly,Female,1-3 years,Both Medication and Therapy,Work Pressure,Medication
+354,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Moderate,Adult,Male,More than 3 years,No Treatment,Social Situations,Meditation
+355,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Moderate,Adult,Male,Less than 6 months,Both Medication and Therapy,Trauma,Support Groups
+356,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Elderly,Male,6-12 months,Both Medication and Therapy,Work Pressure,Support Groups
+357,I get lost even in familiar places.,Alzheimer's Disease,Mild,Teen,Female,More than 3 years,Medication,Social Situations,Meditation
+358,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Adult,Male,6-12 months,Therapy,Stress,Exercise
+359,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Mild,Teen,Female,1-3 years,Therapy,Social Situations,None
+360,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Moderate,Teen,Male,Less than 6 months,Both Medication and Therapy,Social Situations,Meditation
+361,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Elderly,Female,1-3 years,Therapy,Trauma,Support Groups
+362,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Teen,Male,1-3 years,No Treatment,Trauma,Medication
+363,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Teen,Female,1-3 years,Therapy,Stress,Therapy
+364,I get lost even in familiar places.,Alzheimer's Disease,Severe,Teen,Female,6-12 months,Medication,Unknown,Exercise
+365,I get lost even in familiar places.,Alzheimer's Disease,Mild,Elderly,Female,6-12 months,Therapy,Genetics,Medication
+366,I get lost even in familiar places.,Alzheimer's Disease,Mild,Teen,Female,More than 3 years,Therapy,Trauma,Therapy
+367,I get lost even in familiar places.,Alzheimer's Disease,Severe,Teen,Other,Less than 6 months,Medication,Stress,Meditation
+368,I get lost even in familiar places.,Alzheimer's Disease,Mild,Teen,Female,1-3 years,Both Medication and Therapy,Social Situations,Medication
+369,I get lost even in familiar places.,Alzheimer's Disease,Severe,Elderly,Female,1-3 years,Both Medication and Therapy,Social Situations,Exercise
+370,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Mild,Elderly,Female,More than 3 years,Both Medication and Therapy,Genetics,Exercise
+371,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Moderate,Adult,Other,1-3 years,Therapy,Unknown,None
+372,I get lost even in familiar places.,Alzheimer's Disease,Severe,Elderly,Female,6-12 months,Therapy,Genetics,Medication
+373,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Elderly,Other,6-12 months,Both Medication and Therapy,Stress,Medication
+374,"I frequently forget names, faces, and where I put things.",Alzheimer's Disease,Severe,Teen,Other,Less than 6 months,Both Medication and Therapy,Work Pressure,Medication
+375,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Severe,Teen,Female,6-12 months,No Treatment,Work Pressure,Exercise
+376,I struggle to remember recent events but recall old memories clearly.,Alzheimer's Disease,Mild,Adult,Other,6-12 months,Therapy,Trauma,Therapy
+377,I get lost even in familiar places.,Alzheimer's Disease,Mild,Elderly,Female,1-3 years,Therapy,Social Situations,None
+378,I get lost even in familiar places.,Alzheimer's Disease,Moderate,Adult,Other,More than 3 years,No Treatment,Unknown,Meditation
+379,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Elderly,Female,1-3 years,Therapy,Stress,Exercise
+380,I keep hearing voices telling me that I am being watched.,Schizophrenia,Severe,Teen,Male,Less than 6 months,Both Medication and Therapy,Genetics,Medication
+381,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Adult,Other,More than 3 years,Therapy,Genetics,Support Groups
+382,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Adult,Other,More than 3 years,Therapy,Work Pressure,Meditation
+383,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Severe,Elderly,Male,6-12 months,Both Medication and Therapy,Social Situations,Exercise
+384,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Severe,Elderly,Male,1-3 years,Therapy,Genetics,Support Groups
+385,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Elderly,Other,More than 3 years,No Treatment,Trauma,Meditation
+386,"I see things that others don’t see, and it scares me.",Schizophrenia,Mild,Teen,Male,Less than 6 months,Medication,Social Situations,Meditation
+387,"I see things that others don’t see, and it scares me.",Schizophrenia,Moderate,Adult,Male,1-3 years,No Treatment,Trauma,Medication
+388,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Adult,Male,6-12 months,No Treatment,Genetics,Exercise
+389,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Mild,Adult,Female,Less than 6 months,Medication,Work Pressure,Therapy
+390,I keep hearing voices telling me that I am being watched.,Schizophrenia,Severe,Adult,Other,1-3 years,Medication,Unknown,Exercise
+391,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Teen,Female,More than 3 years,No Treatment,Genetics,Exercise
+392,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Adult,Male,6-12 months,Therapy,Social Situations,None
+393,I keep hearing voices telling me that I am being watched.,Schizophrenia,Moderate,Adult,Female,6-12 months,Medication,Social Situations,Support Groups
+394,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Teen,Male,More than 3 years,No Treatment,Genetics,Meditation
+395,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Mild,Adult,Other,1-3 years,Therapy,Social Situations,Exercise
+396,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Mild,Elderly,Female,More than 3 years,Medication,Trauma,Therapy
+397,"I see things that others don’t see, and it scares me.",Schizophrenia,Moderate,Elderly,Female,6-12 months,Medication,Genetics,None
+398,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Mild,Elderly,Other,1-3 years,Medication,Genetics,Meditation
+399,"I see things that others don’t see, and it scares me.",Schizophrenia,Moderate,Teen,Male,More than 3 years,No Treatment,Unknown,Meditation
+400,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Adult,Female,Less than 6 months,No Treatment,Work Pressure,Meditation
+401,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Elderly,Female,1-3 years,Medication,Social Situations,Therapy
+402,"I see things that others don’t see, and it scares me.",Schizophrenia,Mild,Adult,Female,More than 3 years,Both Medication and Therapy,Unknown,Meditation
+403,"I see things that others don’t see, and it scares me.",Schizophrenia,Moderate,Teen,Male,Less than 6 months,Therapy,Unknown,Therapy
+404,I keep hearing voices telling me that I am being watched.,Schizophrenia,Moderate,Adult,Other,6-12 months,Therapy,Work Pressure,None
+405,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Teen,Male,6-12 months,Medication,Trauma,Exercise
+406,I keep hearing voices telling me that I am being watched.,Schizophrenia,Severe,Teen,Female,Less than 6 months,Both Medication and Therapy,Genetics,None
+407,I keep hearing voices telling me that I am being watched.,Schizophrenia,Moderate,Teen,Female,1-3 years,Both Medication and Therapy,Unknown,Meditation
+408,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Teen,Male,6-12 months,No Treatment,Stress,Medication
+409,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Adult,Female,1-3 years,Medication,Unknown,Meditation
+410,I keep hearing voices telling me that I am being watched.,Schizophrenia,Severe,Adult,Female,1-3 years,No Treatment,Genetics,Therapy
+411,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Adult,Male,6-12 months,Medication,Work Pressure,None
+412,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Severe,Adult,Female,1-3 years,Medication,Social Situations,Support Groups
+413,"I see things that others don’t see, and it scares me.",Schizophrenia,Mild,Adult,Other,Less than 6 months,Therapy,Trauma,Support Groups
+414,I keep hearing voices telling me that I am being watched.,Schizophrenia,Mild,Adult,Male,1-3 years,No Treatment,Work Pressure,Meditation
+415,I keep hearing voices telling me that I am being watched.,Schizophrenia,Moderate,Teen,Other,6-12 months,Both Medication and Therapy,Social Situations,Meditation
+416,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Adult,Male,Less than 6 months,Therapy,Work Pressure,Support Groups
+417,"I see things that others don’t see, and it scares me.",Schizophrenia,Mild,Adult,Male,1-3 years,No Treatment,Social Situations,Support Groups
+418,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Teen,Male,Less than 6 months,Both Medication and Therapy,Unknown,Support Groups
+419,"I see things that others don’t see, and it scares me.",Schizophrenia,Severe,Elderly,Male,1-3 years,Both Medication and Therapy,Work Pressure,Meditation
+420,"People tell me my thoughts don’t make sense, but they feel real to me.",Schizophrenia,Moderate,Elderly,Female,1-3 years,No Treatment,Stress,Therapy
+421,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Mild,Teen,Other,1-3 years,Medication,Social Situations,None
+422,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Mild,Teen,Male,1-3 years,Both Medication and Therapy,Genetics,Exercise
+423,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Mild,Adult,Female,1-3 years,No Treatment,Work Pressure,Exercise
+424,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Elderly,Male,Less than 6 months,Both Medication and Therapy,Stress,Support Groups
+425,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Adult,Female,Less than 6 months,Therapy,Genetics,Therapy
+426,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Severe,Adult,Other,More than 3 years,No Treatment,Work Pressure,Medication
+427,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Severe,Elderly,Other,More than 3 years,Both Medication and Therapy,Unknown,Medication
+428,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Adult,Male,More than 3 years,No Treatment,Unknown,Medication
+429,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Adult,Female,1-3 years,Medication,Genetics,Therapy
+430,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Teen,Female,Less than 6 months,No Treatment,Unknown,Support Groups
+431,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Elderly,Male,More than 3 years,No Treatment,Trauma,Support Groups
+432,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Elderly,Male,Less than 6 months,Therapy,Trauma,Therapy
+433,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Adult,Other,More than 3 years,Both Medication and Therapy,Genetics,Medication
+434,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Mild,Adult,Male,1-3 years,Therapy,Work Pressure,Exercise
+435,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Adult,Male,1-3 years,Both Medication and Therapy,Social Situations,Therapy
+436,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Severe,Adult,Male,6-12 months,No Treatment,Social Situations,Medication
+437,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Mild,Elderly,Other,More than 3 years,Both Medication and Therapy,Unknown,Exercise
+438,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Elderly,Other,1-3 years,No Treatment,Social Situations,Exercise
+439,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Teen,Other,More than 3 years,No Treatment,Genetics,Support Groups
+440,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Moderate,Adult,Male,Less than 6 months,Medication,Genetics,Medication
+441,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Mild,Teen,Male,6-12 months,No Treatment,Genetics,None
+442,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Adult,Other,Less than 6 months,No Treatment,Social Situations,Medication
+443,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Mild,Teen,Female,Less than 6 months,Both Medication and Therapy,Social Situations,None
+444,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Mild,Adult,Other,Less than 6 months,Medication,Trauma,Therapy
+445,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Elderly,Male,1-3 years,Therapy,Unknown,Support Groups
+446,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Mild,Elderly,Female,More than 3 years,Therapy,Genetics,Meditation
+447,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Teen,Other,6-12 months,Therapy,Unknown,Therapy
+448,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Mild,Elderly,Male,More than 3 years,Medication,Unknown,Therapy
+449,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Elderly,Other,6-12 months,Both Medication and Therapy,Stress,Therapy
+450,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Mild,Adult,Other,1-3 years,No Treatment,Trauma,Support Groups
+451,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Adult,Male,1-3 years,Therapy,Genetics,Medication
+452,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Adult,Female,1-3 years,Medication,Genetics,Meditation
+453,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Mild,Elderly,Male,Less than 6 months,Medication,Social Situations,None
+454,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Elderly,Other,Less than 6 months,Medication,Trauma,Meditation
+455,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Severe,Adult,Other,1-3 years,Medication,Unknown,Support Groups
+456,I see shadows moving in the corners of my vision.,Paranoia and Hallucinations,Moderate,Teen,Other,More than 3 years,Medication,Work Pressure,Medication
+457,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Teen,Male,Less than 6 months,Medication,Work Pressure,Support Groups
+458,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Elderly,Other,Less than 6 months,Both Medication and Therapy,Social Situations,Medication
+459,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Adult,Female,1-3 years,Both Medication and Therapy,Trauma,Exercise
+460,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Adult,Male,6-12 months,Both Medication and Therapy,Work Pressure,Exercise
+461,"Sometimes, I hear whispers when no one is around.",Paranoia and Hallucinations,Moderate,Adult,Other,6-12 months,Both Medication and Therapy,Stress,Support Groups
+462,I feel like people are always watching and plotting against me.,Paranoia and Hallucinations,Severe,Adult,Female,More than 3 years,Both Medication and Therapy,Unknown,Support Groups
+463,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Female,More than 3 years,Therapy,Genetics,Medication
+464,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Female,1-3 years,Therapy,Unknown,Medication
+465,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Elderly,Male,Less than 6 months,Both Medication and Therapy,Unknown,Medication
+466,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Mild,Adult,Male,Less than 6 months,No Treatment,Work Pressure,None
+467,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Mild,Elderly,Male,Less than 6 months,Medication,Social Situations,None
+468,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Adult,Other,1-3 years,Therapy,Trauma,Therapy
+469,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Female,Less than 6 months,Medication,Stress,Medication
+470,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Mild,Adult,Female,6-12 months,No Treatment,Work Pressure,None
+471,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Teen,Other,1-3 years,Both Medication and Therapy,Stress,Exercise
+472,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Mild,Teen,Male,6-12 months,Therapy,Stress,Exercise
+473,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Female,More than 3 years,No Treatment,Genetics,Therapy
+474,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Other,More than 3 years,Therapy,Social Situations,Meditation
+475,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Male,Less than 6 months,Both Medication and Therapy,Trauma,Meditation
+476,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Adult,Male,Less than 6 months,Therapy,Stress,Meditation
+477,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Mild,Teen,Male,6-12 months,Therapy,Work Pressure,Exercise
+478,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Mild,Adult,Female,1-3 years,Therapy,Trauma,Therapy
+479,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Female,Less than 6 months,No Treatment,Unknown,None
+480,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Mild,Elderly,Female,More than 3 years,Both Medication and Therapy,Unknown,Medication
+481,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Female,6-12 months,No Treatment,Work Pressure,Therapy
+482,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Moderate,Adult,Male,1-3 years,Both Medication and Therapy,Stress,Meditation
+483,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Severe,Teen,Other,6-12 months,Medication,Stress,Meditation
+484,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Mild,Teen,Male,Less than 6 months,Therapy,Stress,Meditation
+485,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Severe,Adult,Female,More than 3 years,Medication,Social Situations,Meditation
+486,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Teen,Female,6-12 months,Both Medication and Therapy,Social Situations,Exercise
+487,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Moderate,Teen,Other,More than 3 years,Both Medication and Therapy,Social Situations,Support Groups
+488,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Mild,Elderly,Female,1-3 years,Both Medication and Therapy,Stress,Support Groups
+489,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Elderly,Female,Less than 6 months,Therapy,Unknown,Meditation
+490,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Mild,Adult,Female,More than 3 years,No Treatment,Trauma,Therapy
+491,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Other,6-12 months,No Treatment,Genetics,Meditation
+492,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Moderate,Teen,Male,1-3 years,Therapy,Unknown,Therapy
+493,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Elderly,Female,6-12 months,No Treatment,Work Pressure,Support Groups
+494,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Teen,Male,6-12 months,Both Medication and Therapy,Social Situations,Exercise
+495,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Mild,Teen,Female,6-12 months,Medication,Genetics,Medication
+496,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Other,1-3 years,Therapy,Work Pressure,Support Groups
+497,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Teen,Male,More than 3 years,No Treatment,Genetics,Therapy
+498,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Moderate,Teen,Female,1-3 years,Both Medication and Therapy,Genetics,Meditation
+499,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Severe,Adult,Male,More than 3 years,No Treatment,Work Pressure,Meditation
+500,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Other,1-3 years,Medication,Stress,Therapy
+501,"I have extreme mood swings, from feeling invincible to hopeless.",Bipolar and Other Autoimmune Disorders,Moderate,Teen,Other,1-3 years,Both Medication and Therapy,Unknown,Support Groups
+502,"I feel depressed for weeks, then suddenly become hyperactive.",Bipolar and Other Autoimmune Disorders,Severe,Elderly,Male,More than 3 years,No Treatment,Social Situations,Therapy
+503,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Elderly,Female,More than 3 years,Medication,Genetics,None
+504,Sometimes I stay up for days feeling full of energy.,Bipolar and Other Autoimmune Disorders,Moderate,Teen,Male,1-3 years,No Treatment,Stress,Therapy
